@@ -1,2 +1,2 @@
 print("my app")
-ptint("add new line")
+print("add new sentence")
